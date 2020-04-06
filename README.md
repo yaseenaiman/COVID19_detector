@@ -1,4 +1,4 @@
-# COVID19D_detector
+# COVID19_detector
 A deep learning algorithm using Colab and Tensorflow to predict whether or not a person has COVID-19 by uploading his/her CT scan 
 
 The accuracy achieved in this model is 80%, we are aiming to achieve about 90% as we are working on that.
