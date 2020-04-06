@@ -27,3 +27,6 @@ https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about#code
 
 
 3- Test: contains the test pics, upload them directly 
+
+Here is alsoe the link of my blog
+https://yaseenaimanmohammed.wordpress.com/2020/04/06/covid-19-detector/
