@@ -23,7 +23,7 @@ You should create the followng folders in your drive:
 https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about#code
 
 
-3- logs and models separately you will understand them when you run the code
+2- logs and models separately you will understand them when you run the code
 
 
-4- Test: contains the test pics, upload them directly 
+3- Test: contains the test pics, upload them directly 
