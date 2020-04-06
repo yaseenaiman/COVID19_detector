@@ -5,16 +5,25 @@ The accuracy achieved in this model is 80%, we are aiming to achieve about 90% a
 
 The content of this folder is constatly changing cuz we are improving the model.
 
-I have uploaded the whole folder in my drive to be used and improved immediately.
 
 This folder contains:
+
+
+1- The COVID-19 dataset identifers and labels in this file covid_data.csv in the data folder, so do not change the images names, use them directly.
+
+
+2- The algorithm "end_to_end_COVID_19_Diagnosis.ipynb"
+
+
+You should create the followng folders in your drive:
+
 
 1- images: Training and validation pics. I could not uplaod the pics cuz of the file size, you just need to use the link below to download the images and upload them directly to the images folder, you might need to make all of them in png extension
 
 https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about#code
 
-2- The COVID-19 dataset identifers and labels in this file covid_data.csv in the data folder, so do not change the images names, use them directly. 
 
-3- logs and models you will understand them when you run the code
+3- logs and models separately you will understand them when you run the code
 
-4- Test folder: contains a test picture for a covid-19 patient which I received today from a doctor, the algorithm reported 70% positive and 4% negative which means the algorithm was totally right. 
+
+4- Test: contains the test pics, upload them directly 
