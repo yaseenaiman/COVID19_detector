@@ -14,4 +14,4 @@ https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about#code
 
 3- logs and models you will understand them when you run the code
 
-4- Test folder: contains a test picture for a covid-19 patient which I received today from a doctor, the algorithm reported 0.7% positive and 0.04 negative which means the algorithm was totally right. 
+4- Test folder: contains a test picture for a covid-19 patient which I received today from a doctor, the algorithm reported 70% positive and 4% negative which means the algorithm was totally right. 
