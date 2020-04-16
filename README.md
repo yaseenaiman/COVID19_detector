@@ -16,13 +16,13 @@ This folder contains:
 2- The algorithm "end_to_end_COVID_19_Diagnosis.ipynb"
 
 
-3- images: Training and validation pics. And also test pics provided by the research paper mentioned above.
+3- images: Training and validation pics. And test pics provided by the research paper mentioned above.
 
 
 4- logs and models separately you will understand them when you run the code
 
 
-5- Test: contains other test pics, upload them directly if you have some(I provided you with some pics taken from Iraqi hospitals).  
+5- Test: contains other test pics, upload them directly if you have some (I provided you with some pics taken from Iraqi hospitals).  
 
 Here is also the link of my blog
 https://yaseenaimanmohammed.wordpress.com/2020/04/06/covid-19-detector/
