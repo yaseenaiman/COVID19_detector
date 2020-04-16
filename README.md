@@ -22,7 +22,7 @@ This folder contains:
 4- logs and models separately you will understand them when you run the code
 
 
-5- Test: contains the other test pics, upload them directly if you have some(I provided you with some pics taken from Iraqi hospitals).  
+5- Test: contains other test pics, upload them directly if you have some(I provided you with some pics taken from Iraqi hospitals).  
 
 Here is also the link of my blog
 https://yaseenaimanmohammed.wordpress.com/2020/04/06/covid-19-detector/
